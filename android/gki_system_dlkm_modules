@@ -1,0 +1,8 @@
+drivers/block/zram/zram.ko
+mm/zsmalloc.ko
+cfg80211.ko
+mac80211.ko
+ath.ko
+ath9k_common.ko
+ath9k_htc.ko
+
